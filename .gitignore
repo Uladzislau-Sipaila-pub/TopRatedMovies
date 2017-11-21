@@ -1,0 +1,6 @@
+**/node_modules
+.idea
+**/coverage/*
+**/.babel-cache/*
+**/src/server-es5.js
+**/src/static/js/*
